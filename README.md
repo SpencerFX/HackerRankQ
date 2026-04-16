@@ -1,9 +1,9 @@
 | Problem Name                      | Type                   | Solved |
 | --------------------------------- | ---------------------- | ------ |
 | Solve Me First                    | Algorithms (Easy)      | ✅      |
-| Compare the Triplets              | Algorithms (Easy)      | ⬜      |
 | Simple Array Sum                  | Algorithms (Easy)      | ✅      |
-| A Very Big Sum                    | Algorithms (Easy)      | ⬜      |
+| Compare the Triplets              | Algorithms (Easy)      | ✅      |
+| A Very Big Sum                    | Algorithms (Easy)      | ✅      |
 | Diagonal Difference               | Algorithms (Easy)      | ⬜      |
 | Plus Minus                        | Algorithms (Easy)      | ⬜      |
 | Staircase                         | Algorithms (Easy)      | ⬜      |

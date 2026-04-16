@@ -1,7 +1,7 @@
 | Problem Name                      | Type                   | Solved |
 | --------------------------------- | ---------------------- | ------ |
 | Solve Me First                    | Algorithms (Easy)      | ✅      |
-| Compare the Triplets              | Algorithms (Easy)      | ⬜      |
+| Compare the Triplets              | Algorithms (Easy)      | ✅      |
 | Simple Array Sum                  | Algorithms (Easy)      | ✅      |
 | A Very Big Sum                    | Algorithms (Easy)      | ⬜      |
 | Diagonal Difference               | Algorithms (Easy)      | ⬜      |

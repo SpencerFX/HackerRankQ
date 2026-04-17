@@ -19,3 +19,8 @@
 / Returns
 / int[2]: the first element is Alice's score and the second is Bob's score
 / ==============================================================
+compareTriplets:{[a;b]
+  (sum a>b; sum a<b)
+ };
+
+/ compareTriplets[5 6 7f; 3 6 10f]

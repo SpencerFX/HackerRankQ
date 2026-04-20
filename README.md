@@ -9,18 +9,6 @@
 | Staircase                         | Algorithms (Easy)      | ⬜      |
 | Mini-Max Sum                      | Algorithms (Easy)      | ⬜      |
 | Birthday Cake Candles             | Algorithms (Easy)      | ⬜      |
-| Arrays - DS                       | Data Structures (Easy) | ✅      |
-| 2D Array - DS                     | Data Structures (Easy) | ✅      |
-| Dynamic Array                     | Data Structures (Easy) | ✅      |
-| Left Rotation                     | Data Structures (Easy) | ✅      |
-| Array Manipulation                | Data Structures (Easy) | ⬜      |
-| Print Linked List                 | Data Structures (Easy) | ⬜      |
-| Insert Node at Tail               | Data Structures (Easy) | ⬜      |
-| Insert Node at Head               | Data Structures (Easy) | ⬜      |
-| Delete a Node                     | Data Structures (Easy) | ⬜      |
-| Reverse Linked List               | Data Structures (Easy) | ⬜      |
-| Compare Two Linked Lists          | Data Structures (Easy) | ⬜      |
-| Get Node Value                    | Data Structures (Easy) | ⬜      |
 | Forming a Magic Square            | Algorithms (Medium)    | ⬜      |
 | Climbing the Leaderboard          | Algorithms (Medium)    | ⬜      |
 | Extra Long Factorials             | Algorithms (Medium)    | ⬜      |
@@ -41,7 +29,6 @@
 | Fraudulent Activity Notifications | Algorithms (Medium)    | ⬜      |
 | Lily's Homework                   | Algorithms (Medium)    | ⬜      |
 | Sherlock and the Valid String     | Algorithms (Medium)    | ⬜      |
-| Sparse Arrays                     | Data Structures (Medi) | ✅      |
 | Matrix Layer Rotation             | Algorithms (Hard)      | ⬜      |
 | Determining DNA Health            | Algorithms (Hard)      | ⬜      |
 | Insertion Sort Advanced Analysis  | Algorithms (Hard)      | ⬜      |
@@ -51,3 +38,16 @@
 | Build a Palindrome                | Algorithms (Hard)      | ⬜      |
 | Build a String                    | Algorithms (Hard)      | ⬜      |
 | Gridland Provinces                | Algorithms (Hard)      | ⬜      |
+| Arrays - DS                       | Data Structures (Easy) | ✅      |
+| 2D Array - DS                     | Data Structures (Easy) | ✅      |
+| Dynamic Array                     | Data Structures (Easy) | ✅      |
+| Left Rotation                     | Data Structures (Easy) | ✅      |
+| Array Manipulation                | Data Structures (Easy) | ⬜      |
+| Print Linked List                 | Data Structures (Easy) | ⬜      |
+| Insert Node at Tail               | Data Structures (Easy) | ⬜      |
+| Insert Node at Head               | Data Structures (Easy) | ⬜      |
+| Delete a Node                     | Data Structures (Easy) | ⬜      |
+| Reverse Linked List               | Data Structures (Easy) | ⬜      |
+| Compare Two Linked Lists          | Data Structures (Easy) | ⬜      |
+| Get Node Value                    | Data Structures (Easy) | ⬜      |
+| Sparse Arrays                     | Data Structures (Medi) | ✅      |

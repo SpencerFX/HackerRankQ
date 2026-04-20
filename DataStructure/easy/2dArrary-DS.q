@@ -1,4 +1,4 @@
-// ==================================================================
+/ Question Info ===============================================
 / Question:
 / Given a  2D array, , an hourglass is a subset of values with indices falling in the following pattern:
 / a b c  
@@ -6,7 +6,10 @@
 / e f g
 / There are  hourglasses in a  array. The  is the sum of the values in an hourglass. 
 / Calculate the hourglass sum for every hourglass in , then print the  hourglass sum.
-// ==================================================================
+/ =============================================================
+
+
+/ Input =======================================================
 m:(
   1 1 1 0 0 0;
   0 1 0 0 0 0;
@@ -14,7 +17,10 @@ m:(
   0 0 2 4 4 0;
   0 0 0 2 0 0;
   0 0 1 2 4 0);
+/ =============================================================
 
+
+/ Solution Info ===============================================
 / hourglass sum
 maxHourglass:{[m]
   rN:count m;
@@ -39,3 +45,4 @@ maxHourglass:{[m]
  }
 
 maxHourglass m
+/ =============================================================

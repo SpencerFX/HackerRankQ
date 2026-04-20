@@ -12,7 +12,7 @@
 | Arrays - DS                       | Data Structures (Easy) | ✅      |
 | 2D Array - DS                     | Data Structures (Easy) | ✅      |
 | Dynamic Array                     | Data Structures (Easy) | ✅      |
-| Left Rotation                     | Data Structures (Easy) | ⬜      |
+| Left Rotation                     | Data Structures (Easy) | ✅      |
 | Sparse Arrays                     | Data Structures (Easy) | ⬜      |
 | Array Manipulation                | Data Structures (Easy) | ⬜      |
 | Print Linked List                 | Data Structures (Easy) | ⬜      |

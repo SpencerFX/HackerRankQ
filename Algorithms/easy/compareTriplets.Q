@@ -22,5 +22,3 @@
 compareTriplets:{[a;b]
   (sum a>b; sum a<b)
  };
-
-/ compareTriplets[5 6 7f; 3 6 10f]

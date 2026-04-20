@@ -10,13 +10,24 @@
 
 / Implementation ==============================================
 diagonalDifference:{[m]
-  n:count m;
-  idx:til n;
-  p:sum m[idx;idx];
-  s:sum m[idx;reverse idx];
-  abs p-s
+
+  rows:1_ m;
+  n:count rows;
+
+  p:0;
+  s:0;
+
+  i:0;
+  while[i<n;
+    r:rows i;
+    p+:r i;
+    s+:r(n-1-i);
+    i+:1;
+  ];
+
+  abs p - s
  }
 / =============================================================
 
-/ m:(3f; 11 2 4f; 4 5 6f; 10 8 -12f)
+/ m:
 diagonalDifference m

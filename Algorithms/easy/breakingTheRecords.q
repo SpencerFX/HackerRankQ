@@ -74,10 +74,25 @@ Goal:
 
 
 / Input Info ==================================================
-
+input: 10 5 20 20 4 5 2 25 1;
 / =============================================================
 
 
 / Solution Info ===============================================
-
+/ breakingRecords input
+breakingRecords:{[scores]
+  f:{[st;v]
+    maxv:st 0;
+    minv:st 1;
+    maxc:st 2;
+    minc:st 3;
+    maxc+:v>maxv;
+    minc+:v<minv;
+    maxv:$[v>maxv; v; maxv];
+    minv:$[v<minv; v; minv];
+    (maxv; minv; maxc; minc)
+  };
+  res:f/[ (first scores; first scores; 0; 0); scores ];
+  (res 2; res 3)
+ };
 / =============================================================

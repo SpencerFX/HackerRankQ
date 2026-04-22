@@ -82,14 +82,16 @@ dayOfProgrammer:{[y]
   cum:sums days;
 
   idx:first where cum>=256;
-
   prev1:$[idx=0; 0; cum idx-1];
-  day:256 - prev1;
-  month:idx + 1;
 
-  $[y=1918;
-    "26.09.1918";
-    raze string day,".",month,".",y
-  ]
- };
+  d:256 - prev1;
+  m:idx + 1;
+
+  / format with zero padding
+  dd:$[d<10;"0",string d;string d];
+  mm:$[m<10;"0",string m;string m];
+  yyyy:string y;
+
+  dd,".",mm,".",yyyy
+ }
 / =============================================================

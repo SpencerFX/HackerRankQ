@@ -6,7 +6,7 @@
 | A Very Big Sum                    | Algorithms (Easy)      | ✅      |
 | Diagonal Difference               | Algorithms (Easy)      | ⬜      |
 | Plus Minus                        | Algorithms (Easy)      | ✅      |
-| Staircase                         | Algorithms (Easy)      | ⬜      |
+| Staircase                         | Algorithms (Easy)      | ✅      |
 | Mini-Max Sum                      | Algorithms (Easy)      | ⬜      |
 | Birthday Cake Candles             | Algorithms (Easy)      | ⬜      |
 | Forming a Magic Square            | Algorithms (Medium)    | ⬜      |

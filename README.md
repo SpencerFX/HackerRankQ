@@ -11,7 +11,7 @@
 | Birthday Cake Candles             | Algorithms (Easy)      | ✅     |
 | Time Conversion                   | Algorithms (Easy)      | ✅     |
 | Grading Students                  | Algorithms (Easy)      | ✅     |
-| Apple and Orange                  | Algorithms (Easy)      | ⬜     |
+| Apple and Orange                  | Algorithms (Easy)      | ✅     |
 | Number Line Jumps                 | Algorithms (Easy)      | ⬜     |
 | Between Two Sets                  | Algorithms (Easy)      | ⬜     |
 | Breaking the Records              | Algorithms (Easy)      | ⬜     |

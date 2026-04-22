@@ -8,7 +8,7 @@
 | Plus Minus                        | Algorithms (Easy)      | ✅     |
 | Staircase                         | Algorithms (Easy)      | ✅     |
 | Mini-Max Sum                      | Algorithms (Easy)      | ✅     |
-| Birthday Cake Candles             | Algorithms (Easy)      | ⬜     |
+| Birthday Cake Candles             | Algorithms (Easy)      | ✅     |
 | Time Conversion                   | Algorithms (Easy)      | ⬜     |
 | Grading Students                  | Algorithms (Easy)      | ⬜     |
 | Apple and Orange                  | Algorithms (Easy)      | ⬜     |

@@ -85,7 +85,8 @@ Goal:
 / Input Info ==================================================
 s:7; 
 t:11;
-a:5; b:15;
+a:5; 
+b:15;
 apples:-2 2 1;
 oranges:5 -6;
 / =============================================================
@@ -94,13 +95,11 @@ oranges:5 -6;
 / Solution Info ===============================================
 countApplesAndOranges[s;t;a;b;apples;oranges]
 
-countApplesAndOranges:{[s;t;a;b;ap;orn]
-  ap:raze ap;
-  orn:raze orn;
-
-  applePos:a + ap;
-  orangePos:b + orn;
-
-  (sum (applePos>=s) & (applePos<=t); sum (orangePos>=s) & (orangePos<=t))
- }
+countApplesAndOranges:{[s;t;a;b;apples;oranges]
+  applePos:a + apples;
+  orangePos:b + oranges;
+  appleHits:sum ((applePos>=s) & (applePos<=t));
+  orangeHits:sum ((orangePos>=s) & (orangePos<=t));
+  (appleHits; orangeHits)
+ };
 / =============================================================

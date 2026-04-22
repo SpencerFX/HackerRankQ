@@ -52,24 +52,22 @@
 / - Format output correctly
 / =============================================================
 
+
 / Input Info ==================================================
 input: (-4 3 -9 0 4 1f);
 / =============================================================
 
 
-
 / Solution Info ===============================================
 / plusMinus input
-
 plusMinus:{[arr]
   n:count arr;
-  pos:sum arr>0;
-  neg:sum arr<0;
+  posNum:sum arr>0;
+  negNum:sum arr<0;
   zer:sum arr=0;
 
-  show string 6 cut string pos% n;
-  show string 6 cut string neg% n;
-  show string 6 cut string zer% n;
- }
-
+  show posNum % n;
+  show negNum % n;
+  show zer % n;
+ };
 / =============================================================

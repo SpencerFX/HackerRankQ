@@ -4,12 +4,12 @@
 | Simple Array Sum                  | Algorithms (Easy)      | ✅     |
 | Compare the Triplets              | Algorithms (Easy)      | ✅     |
 | A Very Big Sum                    | Algorithms (Easy)      | ✅     |
-| Diagonal Difference               | Algorithms (Easy)      | ⬜     |
+| Diagonal Difference               | Algorithms (Easy)      | ✅     |
 | Plus Minus                        | Algorithms (Easy)      | ✅     |
 | Staircase                         | Algorithms (Easy)      | ✅     |
 | Mini-Max Sum                      | Algorithms (Easy)      | ✅     |
 | Birthday Cake Candles             | Algorithms (Easy)      | ✅     |
-| Time Conversion                   | Algorithms (Easy)      | ⬜     |
+| Time Conversion                   | Algorithms (Easy)      | ✅     |
 | Grading Students                  | Algorithms (Easy)      | ⬜     |
 | Apple and Orange                  | Algorithms (Easy)      | ⬜     |
 | Number Line Jumps                 | Algorithms (Easy)      | ⬜     |

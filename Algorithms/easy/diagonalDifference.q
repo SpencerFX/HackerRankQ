@@ -8,23 +8,22 @@
 / =============================================================
 
 
+/ Input Info ==================================================
+input: (3; 11 2 4; 4 5 6; 10 8 -12)
+/ =============================================================
+
+
 / Solution Info ===============================================
-diagonalDifference:{[m]
+/ Note: This is a hard-coded solution. Need to find a more optimal path
+/ diagonalDifference input 
+diagonalDifference:{[x]
+  n:first x;
+  m:1_x;
+  idx:til n;
 
-  rows:1_ m;
-  n:count rows;
+  d1:sum {y[x]}'[idx;m];                / primary diagonal
+  d2:sum {y[x]}'[reverse idx;m];        / secondary diagonal
 
-  p:0;
-  s:0;
-
-  i:0;
-  while[i<n;
-    r:rows i;
-    p+:r i;
-    s+:r(n-1-i);
-    i+:1;
-  ];
-
-  abs p - s
+  abs d1 - d2
  }
 / =============================================================

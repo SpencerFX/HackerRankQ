@@ -65,10 +65,33 @@ Goal:
 
 
 / Input Info ==================================================
-
+input:2017;
 / =============================================================
 
 
 / Solution Info ===============================================
+/ dayOfProgrammer input
+dayOfProgrammer:{[y]
 
+  feb:$[y<1918;
+        $[0=y mod 4; 29; 28];
+        $[(0=y mod 400) | ((0=y mod 4) & (0<>y mod 100)); 29; 28]
+      ];
+
+  days:(31;feb;31;30;31;30;31;31;30;31;30;31);
+  cum:sums days;
+
+  idx:first where cum>=256;
+  prev1:$[idx=0; 0; cum idx-1];
+
+  d:256 - prev1;
+  m:idx + 1;
+
+  / format with zero padding
+  dd:$[d<10;"0",string d;string d];
+  mm:$[m<10;"0",string m;string m];
+  yyyy:string y;
+
+  dd,".",mm,".",yyyy
+ }
 / =============================================================

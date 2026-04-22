@@ -5,7 +5,7 @@
 | Compare the Triplets              | Algorithms (Easy)      | ✅      |
 | A Very Big Sum                    | Algorithms (Easy)      | ✅      |
 | Diagonal Difference               | Algorithms (Easy)      | ⬜      |
-| Plus Minus                        | Algorithms (Easy)      | ⬜      |
+| Plus Minus                        | Algorithms (Easy)      | ✅      |
 | Staircase                         | Algorithms (Easy)      | ⬜      |
 | Mini-Max Sum                      | Algorithms (Easy)      | ⬜      |
 | Birthday Cake Candles             | Algorithms (Easy)      | ⬜      |

@@ -22,6 +22,104 @@
 | Sales by Match                    | Algorithms (Easy)      | ✅     |
 | Drawing Book                      | Algorithms (Easy)      | ✅     |
 | Counting Valleys                  | Algorithms (Easy)      | ✅     |
+| Electronics Shop                  | Algorithms (Easy)      | ⬜     |
+| Cats and a Mouse                  | Algorithms (Easy)      | ⬜     |
+| Forming a Magic Square            | Algorithms (Easy)      | ⬜     |
+| Picking Numbers                   | Algorithms (Easy)      | ⬜     |
+| Climbing the Leaderboard          | Algorithms (Easy)      | ⬜     |
+| The Hurdle Race                   | Algorithms (Easy)      | ⬜     |
+| Designer PDF Viewer               | Algorithms (Easy)      | ⬜     |
+| Utopian Tree                      | Algorithms (Easy)      | ⬜     |
+| Angry Professor                   | Algorithms (Easy)      | ⬜     |
+| Beautiful Days at the Movies      | Algorithms (Easy)      | ⬜     |
+| Viral Advertising                 | Algorithms (Easy)      | ⬜     |
+| Save the Prisoner!                | Algorithms (Easy)      | ⬜     |
+| Circular Array Rotation           | Algorithms (Easy)      | ⬜     |
+| Sequence Equation                 | Algorithms (Easy)      | ⬜     |
+| Jumping on the Clouds             | Algorithms (Easy)      | ⬜     |
+| Jumping on the Clouds: Revisited  | Algorithms (Easy)      | ⬜     |
+| Find Digits                       | Algorithms (Easy)      | ⬜     |
+| Extra Long Factorials             | Algorithms (Easy)      | ⬜     |
+| Append and Delete                 | Algorithms (Easy)      | ⬜     |
+| Sherlock and Squares              | Algorithms (Easy)      | ⬜     |
+| Library Fine                      | Algorithms (Easy)      | ⬜     |
+| Cut the Sticks                    | Algorithms (Easy)      | ⬜     |
+| Repeated String                   | Algorithms (Easy)      | ⬜     |
+| Equalize the Array                | Algorithms (Easy)      | ⬜     |
+| ACM ICPC Team                     | Algorithms (Easy)      | ⬜     |
+| Taum and B'day                    | Algorithms (Easy)      | ⬜     |
+| Kaprekar Numbers                  | Algorithms (Easy)      | ⬜     |
+| Minimum Distances                 | Algorithms (Easy)      | ⬜     |
+| Halloween Sale                    | Algorithms (Easy)      | ⬜     |
+| Chocolate Feast                   | Algorithms (Easy)      | ⬜     |
+| Service Lane                      | Algorithms (Easy)      | ⬜     |
+| Lisa's Workbook                   | Algorithms (Easy)      | ⬜     |
+| Flatland Space Stations           | Algorithms (Easy)      | ⬜     |
+| Fair Rations                      | Algorithms (Easy)      | ⬜     |
+| Cavity Map                        | Algorithms (Easy)      | ⬜     |
+| Manasa and Stones                 | Algorithms (Easy)      | ⬜     |
+| Happy Ladybugs                    | Algorithms (Easy)      | ⬜     |
+| Strange Counter                   | Algorithms (Easy)      | ⬜     |
+| Big Sorting                       | Algorithms (Easy)      | ⬜     |
+| Super Reduced String              | Algorithms (Easy)      | ⬜     |
+| Intro to Tutorial Challenges      | Algorithms (Easy)      | ⬜     |
+| CamelCase                         | Algorithms (Easy)      | ⬜     |
+| Insertion Sort - Part 1           | Algorithms (Easy)      | ⬜     |
+| Strong Password                   | Algorithms (Easy)      | ⬜     |
+| Two Characters                    | Algorithms (Easy)      | ⬜     |
+| Insertion Sort - Part 2           | Algorithms (Easy)      | ⬜     |
+| Correctness and the Loop Invariant| Algorithms (Easy)      | ⬜     |
+| Caesar Cipher                     | Algorithms (Easy)      | ⬜     |
+| Mars Exploration                  | Algorithms (Easy)      | ⬜     |
+| Running Time of Algorithms        | Algorithms (Easy)      | ⬜     |
+| HackerRank in a String!           | Algorithms (Easy)      | ⬜     |
+| Quicksort 1 - Partition           | Algorithms (Easy)      | ⬜     |
+| Pangrams                          | Algorithms (Easy)      | ⬜     |
+| Weighted Uniform Strings          | Algorithms (Easy)      | ⬜     |
+| Separate the Numbers              | Algorithms (Easy)      | ⬜     |
+| Funny String                      | Algorithms (Easy)      | ⬜     |
+| Counting Sort 1                   | Algorithms (Easy)      | ⬜     |
+| Counting Sort 2                   | Algorithms (Easy)      | ⬜     |
+| Gemstones                         | Algorithms (Easy)      | ⬜     |
+| Alternating Characters            | Algorithms (Easy)      | ⬜     |
+| Beautiful Binary String           | Algorithms (Easy)      | ⬜     |
+| Closest Numbers                   | Algorithms (Easy)      | ⬜     |
+| The Love-Letter Mystery           | Algorithms (Easy)      | ⬜     |
+| Find the Median                   | Algorithms (Easy)      | ⬜     |
+| Palindrome Index                  | Algorithms (Easy)      | ⬜     |
+| Anagram                           | Algorithms (Easy)      | ⬜     |
+| Making Anagrams                   | Algorithms (Easy)      | ⬜     |
+| Game of Thrones - I               | Algorithms (Easy)      | ⬜     |
+| Two Strings                       | Algorithms (Easy)      | ⬜     |
+| String Construction               | Algorithms (Easy)      | ⬜     |
+| Ice Cream Parlor                  | Algorithms (Easy)      | ⬜     |
+| Missing Numbers                   | Algorithms (Easy)      | ⬜     |
+| Sherlock and Array                | Algorithms (Easy)      | ⬜     |
+| Minimum Absolute Difference       | Algorithms (Easy)      | ⬜     |
+| Marc's Cakewalk                   | Algorithms (Easy)      | ⬜     |
+| Grid Challenge                    | Algorithms (Easy)      | ⬜     |
+| Luck Balance                      | Algorithms (Easy)      | ⬜     |
+| Maximum Perimeter Triangle        | Algorithms (Easy)      | ⬜     |
+| Beautiful Pairs                   | Algorithms (Easy)      | ⬜     |
+| Sherlock and The Beast            | Algorithms (Easy)      | ⬜     |
+| Priyanka and Toys                 | Algorithms (Easy)      | ⬜     |
+| Largest Permutation               | Algorithms (Easy)      | ⬜     |
+| Mark and Toys                     | Algorithms (Easy)      | ⬜     |
+| Jim and the Orders                | Algorithms (Easy)      | ⬜     |
+| Permuting Two Arrays              | Algorithms (Easy)      | ⬜     |
+| Lonely Integer                    | Algorithms (Easy)      | ⬜     |
+| Maximizing XOR                    | Algorithms (Easy)      | ⬜     |
+| Sum vs XOR                        | Algorithms (Easy)      | ⬜     |
+| Flipping Bits                     | Algorithms (Easy)      | ⬜     |
+| Game of Stones                    | Algorithms (Easy)      | ⬜     |
+| Tower Breakers                    | Algorithms (Easy)      | ⬜     |
+| A Chessboard Game                 | Algorithms (Easy)      | ⬜     |
+| Introduction to Nim Game          | Algorithms (Easy)      | ⬜     |
+| Misère Nim                        | Algorithms (Easy)      | ⬜     |
+| Nimble Game                       | Algorithms (Easy)      | ⬜     |
+| Poker Nim                         | Algorithms (Easy)      | ⬜     |
+| XOR Strings                       | Algorithms (Easy)      | ⬜     |
+| Smart Number                      | Algorithms (Easy)      | ⬜     |
 | Forming a Magic Square            | Algorithms (Medium)    | ⬜     |
 | Climbing the Leaderboard          | Algorithms (Medium)    | ⬜     |
 | Extra Long Factorials             | Algorithms (Medium)    | ⬜     |
@@ -59,8 +157,20 @@
 | Print Linked List                 | Data Structures (Easy) | ⬜     |
 | Insert Node at Tail               | Data Structures (Easy) | ⬜     |
 | Insert Node at Head               | Data Structures (Easy) | ⬜     |
+| Insert Node at Position           | Data Structures (Easy) | ⬜     |
 | Delete a Node                     | Data Structures (Easy) | ⬜     |
+| Print in Reverse                  | Data Structures (Easy) | ⬜     |
 | Reverse Linked List               | Data Structures (Easy) | ⬜     |
 | Compare Two Linked Lists          | Data Structures (Easy) | ⬜     |
 | Get Node Value                    | Data Structures (Easy) | ⬜     |
+| Delete Duplicate Nodes            | Data Structures (Easy) | ⬜     |
+| Merge Two Sorted Linked Lists     | Data Structures (Easy) | ⬜     |
+| Cycle Detection                   | Data Structures (Easy) | ⬜     |
+| Tree: Preorder Traversal          | Data Structures (Easy) | ⬜     |
+| Tree: Postorder Traversal         | Data Structures (Easy) | ⬜     |
+| Tree: Inorder Traversal           | Data Structures (Easy) | ⬜     |
+| Tree: Height of a Binary Tree     | Data Structures (Easy) | ⬜     |
+| Tree: Top View                    | Data Structures (Easy) | ⬜     |
+| Tree: Level Order Traversal       | Data Structures (Easy) | ⬜     |
+| Tree: Binary Search Tree Insertion| Data Structures (Easy) | ⬜     |
 | Sparse Arrays                     | Data Structures (Medi) | ✅     |

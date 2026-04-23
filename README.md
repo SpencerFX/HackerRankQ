@@ -15,7 +15,7 @@
 | Number Line Jumps                 | Algorithms (Easy)      | ✅     |
 | Between Two Sets                  | Algorithms (Easy)      | ✅     |
 | Breaking the Records              | Algorithms (Easy)      | ✅     |
-| Subarray Division                 | Algorithms (Easy)      | ⬜     |
+| Subarray Division                 | Algorithms (Easy)      | ✅     |
 | Migratory Birds                   | Algorithms (Easy)      | ✅     |
 | Day of the Programmer             | Algorithms (Easy)      | ✅     |
 | Bill Division                     | Algorithms (Easy)      | ⬜     |

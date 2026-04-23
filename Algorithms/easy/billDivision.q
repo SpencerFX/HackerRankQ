@@ -78,10 +78,20 @@ Goal:
 
 
 / Input Info ==================================================
-
+input: 3 10 2 9
 / =============================================================
 
 
 / Solution Info ===============================================
+billDivision[input; 1; 12]
 
+billDivision:{[bill;k;b]
+  annaShare:(sum bill) - bill[k];
+  annaShare:annaShare % 2;
+
+  $[annaShare = b;
+    "Bon Appetit";
+    string b - annaShare
+  ]
+ };
 / =============================================================

@@ -20,7 +20,7 @@
 | Day of the Programmer             | Algorithms (Easy)      | ✅     |
 | Bill Division                     | Algorithms (Easy)      | ✅     |
 | Sales by Match                    | Algorithms (Easy)      | ✅     |
-| Drawing Book                      | Algorithms (Easy)      | ⬜     |
+| Drawing Book                      | Algorithms (Easy)      | ✅     |
 | Counting Valleys                  | Algorithms (Easy)      | ✅     |
 | Forming a Magic Square            | Algorithms (Medium)    | ⬜     |
 | Climbing the Leaderboard          | Algorithms (Medium)    | ⬜     |

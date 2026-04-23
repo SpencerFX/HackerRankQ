@@ -83,7 +83,7 @@ input: 3 10 2 9
 
 
 / Solution Info ===============================================
-billDivision[input; 1; 12]
+/ billDivision[input; 1; 12]
 
 billDivision:{[bill;k;b]
   annaShare:(sum bill) - bill[k];

@@ -70,9 +70,8 @@ input:2017;
 
 
 / Solution Info ===============================================
-/ dayOfProgrammer input
-dayOfProgrammer:{[y]
-
+/ dayOfTheProgrammer input
+dayOfTheProgrammer:{[y]
   feb:$[y<1918;
         $[0=y mod 4; 29; 28];
         $[(0=y mod 400) | ((0=y mod 4) & (0<>y mod 100)); 29; 28]

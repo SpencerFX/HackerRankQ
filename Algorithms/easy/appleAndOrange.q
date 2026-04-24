@@ -93,8 +93,8 @@ oranges:5 -6;
 
 
 / Solution Info ===============================================
-/countApplesAndOranges[s;t;a;b;apples;oranges]
-countApplesAndOranges:{[s;t;a;b;apples;oranges]
+/appleAndOrange[s;t;a;b;apples;oranges]
+appleAndOrange:{[s;t;a;b;apples;oranges]
   applePos:a + apples;
   orangePos:b + oranges;
   appleHits:sum ((applePos>=s) & (applePos<=t));

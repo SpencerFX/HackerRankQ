@@ -70,19 +70,16 @@ Goal:
 
 
 / Input Info ==================================================
-input: 1 2 1 3 2
+input: 1 2 1 3 2;
 / =============================================================
 
 
 / Solution Info ===============================================
 / subArrayDivision[input; 3; 2]
-
 subArrayDivision:{[s;d;m]
   n:count s;
   idx:til n-m+1;
-
   window:{[s;m;x] sum s[x + til m]}[s;m] each idx;
-
   sum window = d
  }
 / =============================================================

@@ -79,8 +79,8 @@ input: 10 5 20 20 4 5 2 25 1;
 
 
 / Solution Info ===============================================
-/ breakingRecords input
-breakingRecords:{[scores]
+/ breakingTheRecords input
+breakingTheRecords:{[scores]
   f:{[st;v]
     maxv:st 0;
     minv:st 1;

@@ -78,7 +78,6 @@ input2:2;
 
 / Solution Info ===============================================
 / drawingBook[input1;input2]
-
 drawingBook:{[n;p]
   front:p div 2;
   back:(n div 2) - front;

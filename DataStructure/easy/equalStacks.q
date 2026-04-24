@@ -57,3 +57,8 @@
 / - Find the highest possible height where all stacks are equal
 / - Perform removals efficiently (avoid recomputing sums repeatedly)
 / =============================================================
+
+
+/ Solution Info ===============================================
+
+/ =============================================================

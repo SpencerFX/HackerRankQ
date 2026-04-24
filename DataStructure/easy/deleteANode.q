@@ -49,3 +49,8 @@
 / - Correctly handle deletion at head and middle/end positions
 / - Maintain list integrity after removal
 / =============================================================
+
+
+/ Solution Info ===============================================
+
+/ =============================================================

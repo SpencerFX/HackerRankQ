@@ -1,11 +1,11 @@
 .solutions.dataStructures.easy: (!) . flip raze 2 cut
     (
-        (`2dArrayDS; `);
-        (`arraysDS; `);
+        (`TwoDArrayDS; 19);
+        (`arraysDS; 2 3 4 1);
         (`binarySearchTreeInsertion; `);
         (`deleteANode; `);
         (`deleteDuplicateValueNodesFromAssortedLinkedList; `);
-        (`dynamicArray; `);
+        (`dynamicArray; 7 3);
         (`equalStacks; `);
         (`findMergePointOfTwoLists; `);
         (`getNodeValue; `);
@@ -14,7 +14,7 @@
         (`insertNodeAtTheHeadOfALinkedList; `);
         (`insertNodeAtTheTailOfALinkedList; `);
         (`jessieAndcookies; `);
-        (`leftRotation; `);
+        (`leftRotation; 3 4 5 1 2);
         (`maximumElement; `);
         (`mergeTwoSortedLinkedLists; `);
         (`printInReverse; `);

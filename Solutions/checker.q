@@ -1,7 +1,8 @@
+/ checker[`appleAndOrange; appleAndOrange]
 checker:{[problemName; function]
-    input:first exec input from solutionTab where problem = problemName;
-    knownSolution: first exec solutino from solutionTab where problem = problemName;
+    input:.inputs.algorithms.easy problemName;
+    knownSolution: .solutions.algorithms.easy problemName;;
     res: function . input;
     pass: res = knownSolution;
-    $[pass; show"Your solution works!"; show"Please try again."];
+    $[min pass; show"Your solution works!"; show"Please try again."];
  };

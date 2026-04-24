@@ -22,5 +22,3 @@
         (`subArrayDivision; 2);
         (`timeConversion; "19:05:45")
     );
-
-    

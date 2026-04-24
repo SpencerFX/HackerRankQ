@@ -4,7 +4,7 @@
         (`aVeryBigSum; 5000000015);
         (`betweenTwoSets; 3i);
         (`billDivision; 5);
-        (`birthdayCakeCandles; 2)
+        (`birthdayCakeCandles; 2);
         (`breakingTheRecords; (2 4i));
         (`compareTriplets; 11);
         (`countingValleys; 1);

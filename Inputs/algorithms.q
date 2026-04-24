@@ -2,7 +2,7 @@
     (
         (`appleAndOrange; (7; 11; 5; 15; -2 2 1; 5 -6));
         (`aVeryBigSum; 5000000015);
-        (`betweenTwoSets; 3i);
+        (`betweenTwoSets; (2 4; 16 32 96));
         (`billDivision; 5);
         (`birthdayCakeCandles; 2);
         (`breakingTheRecords; (2 4i));

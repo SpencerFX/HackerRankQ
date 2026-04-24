@@ -11,8 +11,8 @@
         (`getNodeValue; `);
         (`insertANodeAtASecificPositionInALinkedList; `);
         (`insertingaNodeIntoAsortedDoublyLinkedList; `);
-        (`insertNodeAtTheHeadOfALinkedList; `);
-        (`insertNodeAtTheTailOfALinkedList; `);
+        (`insertNodeAtTheHeadOfALinkedList; enlist 383 484 392 975 321);
+        (`insertNodeAtTheTailOfALinkedList; enlist 141 302 164 530 474);
         (`jessieAndcookies; `);
         (`leftRotation; (2;1 2 3 4 5));
         (`maximumElement; `);

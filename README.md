@@ -155,8 +155,8 @@
 | Left Rotation                     | Data Structures (Easy) | ✅     |
 | Array Manipulation                | Data Structures (Easy) | ⬜     |
 | Print Linked List                 | Data Structures (Easy) | ⬜     |
-| Insert Node at Tail               | Data Structures (Easy) | ⬜     |
-| Insert Node at Head               | Data Structures (Easy) | ⬜     |
+| Insert Node at Tail               | Data Structures (Easy) | ✅*    |
+| Insert Node at Head               | Data Structures (Easy) | ✅*    |
 | Insert Node at Position           | Data Structures (Easy) | ⬜     |
 | Delete a Node                     | Data Structures (Easy) | ⬜     |
 | Print in Reverse                  | Data Structures (Easy) | ⬜     |

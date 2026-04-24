@@ -79,5 +79,5 @@ countingValleys:{[p]
   steps:1 - 2 *' (p="D");
   level:sums steps;
   sum (level=0) & (steps=1)
- }
+ };
 / =============================================================

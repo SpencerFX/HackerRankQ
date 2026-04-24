@@ -7,4 +7,9 @@ checker:{[problemName; function]
  };
 
 / checker[`appleAndOrange; appleAndOrange]
+/ checker[`aVeryBigSum; aVeryBigSum]
 / checker[`betweenTwoSets; betweenTwoSets]
+/ checker[`billDivision; billDivision]
+/ checker[`birthdayCakeCandles; birthdayCakeCandles]
+/ checker[`breakingTheRecords; breakingTheRecords]
+/ checker[`compareTriplets; compareTriplets]

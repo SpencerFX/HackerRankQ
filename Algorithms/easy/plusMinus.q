@@ -66,8 +66,6 @@ plusMinus:{[arr]
   negNum:sum arr<0;
   zer:sum arr=0;
 
-  show posNum % n;
-  show negNum % n;
-  show zer % n;
+  (posNum % n; negNum % n;zer % n)
  };
 / =============================================================

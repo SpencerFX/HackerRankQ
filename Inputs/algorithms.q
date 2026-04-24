@@ -1,7 +1,7 @@
 .inputs.algorithms.easy: (!) . flip raze 2 cut
     (
         (`appleAndOrange; (7; 11; 5; 15; -2 2 1; 5 -6));
-        (`aVeryBigSum; 5000000015);
+        (`aVeryBigSum; enlist (1000000001 1000000002 1000000003 1000000004 1000000005));
         (`betweenTwoSets; (2 4; 16 32 96));
         (`billDivision; 5);
         (`birthdayCakeCandles; 2);

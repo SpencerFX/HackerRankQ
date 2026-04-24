@@ -1,23 +1,26 @@
 .solutions.algorithms.easy: (!) . flip raze 2 cut
     (
         (`appleAndOrange; (1 1i));
-        (`aVeryBigSum; .kdb.desc.args.c);
-        (`betweenTwoSets; 3i;
-        (`billDivision; .kdb.desc.args.e);
-        (`breakingTheRecords; .kdb.desc.args.E);
-        (`compareTriplets; .kdb.desc.args.g);
-        (`dayOfTheProgrammer; .kdb.desc.args.l);
-        (`diagonalDifference; .kdb.desc.args.L);
-        (`drawingBook; .kdb.desc.args.m);
-        (`gradingStudents; .kdb.desc.args.p);
-        (`migratoryBirds; .kdb.desc.args.P);
-        (`miniMaxSum; .kdb.desc.args.q);
-        (`numberLineJumps; .kdb.desc.args.r);
-        (`plusMinus; .kdb.desc.args.s);
-        (`salesByMatch; .kdb.desc.args.S);
-        (`simpleArraySum; .kdb.desc.args.T);
-        (`staircase; .kdb.desc.args.u);
-        (`subArrayDivision; .kdb.desc.args.U);
-        (`timeConversion; .kdb.desc.args.w)
-        )
+        (`aVeryBigSum; 5000000015);
+        (`betweenTwoSets; 3i);
+        (`billDivision; 5);
+        (`birthdayCakeCandles; 2)
+        (`breakingTheRecords; (2 4i));
+        (`compareTriplets; 11);
+        (`countingValleys; 1);
+        (`dayOfTheProgrammer; "13.09.2017");
+        (`diagonalDifference; 15);
+        (`drawingBook; 1);
+        (`gradingStudents; (75 67 40 33));
+        (`migratoryBirds; 4);
+        (`miniMaxSum; (10 14));
+        (`numberLineJumps; `YES);
+        (`plusMinus; (0.500000 0.333333 0.166667));
+        (`salesByMatch; 3);
+        (`simpleArraySum; 31);
+        (`staircase; ("#";"##";"###";"####";"#####"));
+        (`subArrayDivision; 2);
+        (`timeConversion; "19:05:45")
     );
+
+    

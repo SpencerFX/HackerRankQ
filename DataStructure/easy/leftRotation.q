@@ -48,8 +48,8 @@
 / =============================================================
 
 / Solution Info ===============================================
-/ rotateLeft[2;1 2 3 4 5]
-rotateLeft:{[d;arr]
+/ leftRotation[2;1 2 3 4 5]
+leftRotation:{[d;arr]
   / (d mod count arr) rotate arr
   d rotate arr
  }

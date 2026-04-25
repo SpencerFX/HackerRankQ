@@ -22,3 +22,15 @@
         (`subArrayDivision; 2);
         (`timeConversion; "19:05:45")
     );
+
+.solutions.algorithms.medium: (!) . flip raze 2 cut
+    (
+        (`a; `);
+        (`b; `)
+    );
+
+.solutions.algorithms.hard: (!) . flip raze 2 cut
+    (
+        (`a; `);
+        (`b; `)
+    );

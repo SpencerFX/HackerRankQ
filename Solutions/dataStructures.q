@@ -1,7 +1,7 @@
 .solutions.dataStructures.easy: (!) . flip raze 2 cut
     (
-        (`TwoDArrayDS; 19);
-        (`arraysDS; 2 3 4 1);
+        (`twoDArrayDS; 19);
+        (`arraysDS; 1 4 3 2);
         (`binarySearchTreeInsertion; `);
         (`deleteANode; `);
         (`deleteDuplicateValueNodesFromAssortedLinkedList; `);
@@ -11,8 +11,8 @@
         (`getNodeValue; `);
         (`insertANodeAtASecificPositionInALinkedList; `);
         (`insertingaNodeIntoAsortedDoublyLinkedList; `);
-        (`insertNodeAtTheHeadOfALinkedList; `);
-        (`insertNodeAtTheTailOfALinkedList; `);
+        (`insertNodeAtTheHeadOfALinkedList; 321 975 392 484 383);
+        (`insertNodeAtTheTailOfALinkedList; 141 302 164 530 474);
         (`jessieAndcookies; `);
         (`leftRotation; 3 4 5 1 2);
         (`maximumElement; `);
@@ -28,4 +28,16 @@
         (`treePostorderTraversal; `);
         (`treePreorderTraversal; `);
         (`treeTopView; `)
+    );
+
+.solutions.dataStructures.medium: (!) . flip raze 2 cut
+    (
+        (`a; `);
+        (`b; `)
+    );
+
+.solutions.dataStructures.hard: (!) . flip raze 2 cut
+    (
+        (`a; `);
+        (`b; `)
     );

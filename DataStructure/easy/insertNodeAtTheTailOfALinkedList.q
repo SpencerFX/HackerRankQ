@@ -53,8 +53,7 @@
 /nextOne:  1 2 -1;   / -1 = null
 /head: 0;
 /node:{[d;nxt] (`data`next)!(d;nxt)}
-head:();
-vals:141 302 164 530 474;
+input: 141 302 164 530 474;
 / =============================================================
 
 / Solution Info ===============================================
@@ -65,5 +64,5 @@ enlistItems:{[h;v]
   ]
  };
 
-insertNodeAtTail:{enlistItems/[(); x]};
+insertNodeAtTheTailOfALinkedList:{enlistItems/[(); x]};
 / =============================================================

@@ -53,7 +53,7 @@ input: 383 484 392 975 321;
 / =============================================================
 
 / Solution Info ===============================================
-/ insertNodeAtTheHeadOfALinkedList[vals]
+/ insertNodeAtTheHeadOfALinkedList[input]
 insertNodeAtTheHeadOfALinkedList:{[v]
     list:reverse v;
     list

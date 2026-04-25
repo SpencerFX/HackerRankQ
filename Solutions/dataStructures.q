@@ -1,7 +1,7 @@
 .solutions.dataStructures.easy: (!) . flip raze 2 cut
     (
-        (`TwoDArrayDS; 19);
-        (`arraysDS; 2 3 4 1);
+        (`twoDArrayDS; 19);
+        (`arraysDS; 1 4 3 2);
         (`binarySearchTreeInsertion; `);
         (`deleteANode; `);
         (`deleteDuplicateValueNodesFromAssortedLinkedList; `);
@@ -28,4 +28,16 @@
         (`treePostorderTraversal; `);
         (`treePreorderTraversal; `);
         (`treeTopView; `)
+    );
+
+.solutions.dataStructures.medium: (!) . flip raze 2 cut
+    (
+        (`a; `);
+        (`b; `)
+    );
+
+.solutions.dataStructures.hard: (!) . flip raze 2 cut
+    (
+        (`a; `);
+        (`b; `)
     );

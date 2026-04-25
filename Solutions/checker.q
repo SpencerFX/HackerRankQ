@@ -47,4 +47,5 @@ confirmCategory:{[problemName]
 /checker[`printLinkedList;printLinkedList]
 /checker[`insertANodeAtASpecificPositionInALinkedList;insertANodeAtASpecificPositionInALinkedList]
 /checker[`deleteANode;deleteANode]
+/checker[`printInReverse;printInReverse]
 /results

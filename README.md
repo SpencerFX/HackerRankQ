@@ -156,9 +156,9 @@
 | Print Linked List                 | Data Structures (Easy) | ✅     |
 | Insert Node at Tail               | Data Structures (Easy) | ✅     |
 | Insert Node at Head               | Data Structures (Easy) | ✅     |
-| Insert Node at Position           | Data Structures (Easy) | ⬜     |
-| Delete a Node                     | Data Structures (Easy) | ⬜     |
-| Print in Reverse                  | Data Structures (Easy) | ⬜     |
+| Insert Node at Position           | Data Structures (Easy) | ✅     |
+| Delete a Node                     | Data Structures (Easy) | ✅     |
+| Print in Reverse                  | Data Structures (Easy) | ✅     |
 | Reverse Linked List               | Data Structures (Easy) | ⬜     |
 | Compare Two Linked Lists          | Data Structures (Easy) | ⬜     |
 | Get Node Value                    | Data Structures (Easy) | ⬜     |

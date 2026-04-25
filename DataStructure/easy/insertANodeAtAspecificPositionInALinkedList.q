@@ -58,8 +58,16 @@
 / Input Info ==================================================
 input1: 1 2 3;
 input2: 4;
+
+l:16 13 7
+p:2
+v:1
 / =============================================================
 
 / Solution Info ===============================================
+insertANodeAtASpecificPositionInALinkedList[l;v;p]
 
+insertANodeAtASpecificPositionInALinkedList:{[l;v;p]
+  (p#l),v,(p _ l)
+ }
 / =============================================================

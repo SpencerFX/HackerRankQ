@@ -45,4 +45,6 @@ confirmCategory:{[problemName]
 /checker[`insertNodeAtTheHeadOfALinkedList;insertNodeAtTheHeadOfALinkedList]
 /checker[`insertNodeAtTheTailOfALinkedList;insertNodeAtTheTailOfALinkedList]
 /checker[`printLinkedList;printLinkedList]
+/checker[`insertANodeAtASpecificPositionInALinkedList;insertANodeAtASpecificPositionInALinkedList]
+/checker[`deleteANode;deleteANode]
 /results

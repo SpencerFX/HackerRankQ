@@ -3,13 +3,13 @@
         (`twoDArrayDS; 19);
         (`arraysDS; 1 4 3 2);
         (`binarySearchTreeInsertion; `);
-        (`deleteANode; `);
+        (`deleteANode; 20 6 2 7 4 15 9);
         (`deleteDuplicateValueNodesFromAssortedLinkedList; `);
         (`dynamicArray; 7 3);
         (`equalStacks; `);
         (`findMergePointOfTwoLists; `);
         (`getNodeValue; `);
-        (`insertANodeAtASecificPositionInALinkedList; `);
+        (`insertANodeAtASpecificPositionInALinkedList; 16 13 1 7);
         (`insertingaNodeIntoAsortedDoublyLinkedList; `);
         (`insertNodeAtTheHeadOfALinkedList; 321 975 392 484 383);
         (`insertNodeAtTheTailOfALinkedList; 141 302 164 530 474);
@@ -18,7 +18,7 @@
         (`maximumElement; `);
         (`mergeTwoSortedLinkedLists; `);
         (`printLinkedList; 16 13);
-        (`printInReverse; `);
+        (`printInReverse; 4 3 2 1);
         (`printTheElementsOfALinkedList; `);
         (`qHeap1; `);
         (`reverseADoublyLinkedList; `);

@@ -153,8 +153,7 @@
 | 2D Array - DS                     | Data Structures (Easy) | ✅     |
 | Dynamic Array                     | Data Structures (Easy) | ✅     |
 | Left Rotation                     | Data Structures (Easy) | ✅     |
-| Array Manipulation                | Data Structures (Easy) | ⬜     |
-| Print Linked List                 | Data Structures (Easy) | ⬜     |
+| Print Linked List                 | Data Structures (Easy) | ✅     |
 | Insert Node at Tail               | Data Structures (Easy) | ✅     |
 | Insert Node at Head               | Data Structures (Easy) | ✅     |
 | Insert Node at Position           | Data Structures (Easy) | ⬜     |

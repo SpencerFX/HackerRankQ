@@ -17,6 +17,7 @@
         (`leftRotation; (2;1 2 3 4 5));
         (`maximumElement; `);
         (`mergeTwoSortedLinkedLists; `);
+        (`printLinkedList; enlist 16 13);
         (`printInReverse; `);
         (`printTheElementsOfALinkedList; `);
         (`qHeap1; `);

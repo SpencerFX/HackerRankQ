@@ -44,4 +44,5 @@ confirmCategory:{[problemName]
 /checker[`dynamicArray;dynamicArray]
 /checker[`insertNodeAtTheHeadOfALinkedList;insertNodeAtTheHeadOfALinkedList]
 /checker[`insertNodeAtTheTailOfALinkedList;insertNodeAtTheTailOfALinkedList]
+/checker[`printLinkedList;printLinkedList]
 /results

@@ -159,11 +159,11 @@
 | Insert Node at Position           | Data Structures (Easy) | ✅     |
 | Delete a Node                     | Data Structures (Easy) | ✅     |
 | Print in Reverse                  | Data Structures (Easy) | ✅     |
-| Reverse Linked List               | Data Structures (Easy) | ⬜     |
-| Compare Two Linked Lists          | Data Structures (Easy) | ⬜     |
-| Get Node Value                    | Data Structures (Easy) | ⬜     |
-| Delete Duplicate Nodes            | Data Structures (Easy) | ⬜     |
-| Merge Two Sorted Linked Lists     | Data Structures (Easy) | ⬜     |
+| Reverse Linked List               | Data Structures (Easy) | ✅     |
+| Compare Two Linked Lists          | Data Structures (Easy) | ✅     |
+| Get Node Value                    | Data Structures (Easy) | ✅     |
+| Delete Duplicate Nodes            | Data Structures (Easy) | ✅     |
+| Merge Two Sorted Linked Lists     | Data Structures (Easy) | ✅     |
 | Tree: Preorder Traversal          | Data Structures (Easy) | ⬜     |
 | Tree: Postorder Traversal         | Data Structures (Easy) | ⬜     |
 | Tree: Inorder Traversal           | Data Structures (Easy) | ⬜     |

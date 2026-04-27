@@ -5,7 +5,7 @@
         (`binarySearchTreeInsertion; `);
         (`compareTwoLinkedLists; 1b);
         (`deleteANode; 20 6 2 7 4 15 9);
-        (`deleteDuplicateValueNodesFromAssortedLinkedList; 1 2 3);
+        (`deleteDuplicateValueNodesFromASortedLinkedList; 1 2 3);
         (`dynamicArray; 7 3);
         (`equalStacks; 5);
         (`findMergePointOfTwoLists; 7);

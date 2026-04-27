@@ -3,9 +3,9 @@
         (`twoDArrayDS; enlist (1 1 1 0 0 0;  0 1 0 0 0 0;  1 1 1 0 0 0; 0 0 2 4 4 0; 0 0 0 2 0 0; 0 0 1 2 4 0));
         (`arraysDS; enlist 2 3 4 1);
         (`binarySearchTreeInsertion; `);
-        (`compareTwoLinkedLists; ((1 2 3); (1 2 3));
+        (`compareTwoLinkedLists; ((1 2 3); (1 2 3)));
         (`deleteANode; ((8 20 6 2 19 7 4 15 9);3));
-        (`deleteDuplicateValueNodesFromAssortedLinkedList; enlist 1 1 2 3 3);
+        (`deleteDuplicateValueNodesFromASortedLinkedList; enlist 1 1 2 3 3);
         (`dynamicArray; (2; (1 0 5; 1 1 7; 1 0 3; 2 1 0; 2 1 1)));
         (`equalStacks; (3 2 1  1 1; 4 3 2; 1 1 4 1));
         (`findMergePointOfTwoLists; (1 2 3; 4 5));

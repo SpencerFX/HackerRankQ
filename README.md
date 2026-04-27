@@ -164,7 +164,6 @@
 | Get Node Value                    | Data Structures (Easy) | ⬜     |
 | Delete Duplicate Nodes            | Data Structures (Easy) | ⬜     |
 | Merge Two Sorted Linked Lists     | Data Structures (Easy) | ⬜     |
-| Cycle Detection                   | Data Structures (Easy) | ⬜     |
 | Tree: Preorder Traversal          | Data Structures (Easy) | ⬜     |
 | Tree: Postorder Traversal         | Data Structures (Easy) | ⬜     |
 | Tree: Inorder Traversal           | Data Structures (Easy) | ⬜     |

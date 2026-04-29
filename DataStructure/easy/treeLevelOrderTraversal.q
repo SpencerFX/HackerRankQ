@@ -66,7 +66,7 @@ t1:(`data`left`right)!(1;t2;t3);
 
 
 / Solution Info ===============================================
-/ levelOrder t1
+/ treeLevelOrderTraversal t1
 treeLevelOrderTraversal:{[root]
   q:enlist root;
   res:();

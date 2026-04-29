@@ -31,14 +31,17 @@ confirmCategory:{[problemName]
     inputTopCheck: first where mapDict = 1b
  };
 
+/ Algorithms
 /checker[`appleAndOrange; appleAndOrange]
 /checker[`aVeryBigSum; aVeryBigSum]
 /checker[`betweenTwoSets; betweenTwoSets]
 /checker[`billDivision; billDivision]
 /checker[`birthdayCakeCandles; birthdayCakeCandles]
 /checker[`breakingTheRecords; breakingTheRecords]
-/checker[`compareTriplets; compareTriplets]
+
+/ DataStructures
 /checker[`arraysDS; arraysDS]
+/checker[`compareTriplets; compareTriplets]
 /checker[`leftRotation; leftRotation]
 /checker[`twoDArrayDS;twoDArrayDS]
 /checker[`dynamicArray;dynamicArray]
@@ -53,8 +56,15 @@ confirmCategory:{[problemName]
 /checker[`getNodeValue;getNodeValue]
 /checker[`deleteDuplicateValueNodesFromASortedLinkedList;deleteDuplicateValueNodesFromASortedLinkedList]
 /checker[`mergeTwoSortedLinkedLists;mergeTwoSortedLinkedLists]
-checker[`maximumElement;maximumElement]
-checker[`jessieAndCookies;jessieAndCookies]
-checker[`equalStacks;equalStacks]
-checker[`qHeap1;qHeap1]
-results
+/checker[`binarySearchTreeInsertion;binarySearchTreeInsertion]
+/checker[`treeHeightOfABinaryTree;treeHeightOfABinaryTree]
+/checker[`treeInorderTraversal;treeInorderTraversal]
+/checker[`treeLevelOrderTraversal;treeLevelOrderTraversal]
+/checker[`treePostOrderTraversal;treePostOrderTraversal]
+/checker[`treePostOrderTraversal;treePreOrderTraversal]
+/checker[`treeTopView;treeTopView]
+/checker[`maximumElement;maximumElement]
+/checker[`jessieAndCookies;jessieAndCookies]
+/checker[`equalStacks;equalStacks]
+/checker[`qHeap1;qHeap1]
+/results

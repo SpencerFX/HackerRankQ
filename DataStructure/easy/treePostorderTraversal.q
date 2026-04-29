@@ -74,9 +74,9 @@ t1:(`v`l`r)!(1;nullNode;t2);
 
 
 / Solution Info ===============================================
-/ postorder t1
+/ treePostorderTraversal t1
 treePostorderTraversal:{
   if[0=count x; :()];
-  postorder[x`l], postorder[x`r], enlist x`v
+  treePostorderTraversal[x`l], treePostorderTraversal[x`r], enlist x`v
  };
 / =============================================================

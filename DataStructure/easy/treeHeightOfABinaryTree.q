@@ -65,10 +65,10 @@ t1:(`v`l`r)!(1;();t2);
 / =============================================================
 
 / Solution Info ===============================================
-/ height t1
+/ treeHeightOfABinaryTree t1
 treeHeightOfABinaryTree:{[x]
   $[99h=type x;
-    1 + max(height[x`l]; height[x`r]);
+    1 + max(treeHeightOfABinaryTree[x`l]; treeHeightOfABinaryTree[x`r]);
     -1
   ]
  };

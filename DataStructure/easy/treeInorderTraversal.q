@@ -72,10 +72,10 @@ t1:(`v`l`r)!(1;();t2);
 
 
 / Solution Info ===============================================
-/ inorder t1
+/ treeInorderTraversal t1
 treeInorderTraversal:{[x]
   $[99h=type x;
-    (inorder[x`l]), (enlist x`v), (inorder[x`r]);
+    (treeInorderTraversal[x`l]), (enlist x`v), (treeInorderTraversal[x`r]);
     ()
   ]
  };

@@ -80,7 +80,7 @@ t1:(`data`left`right)!(1;t2;t3);
 
 
 / Solution Info ===============================================
-/ topView t1
+/ treeTopView t1
 treeTopView:{[root]
   q:enlist (root;0);
   seen:()!();

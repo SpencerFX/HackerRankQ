@@ -38,6 +38,7 @@ confirmCategory:{[problemName]
 /checker[`billDivision; billDivision]
 /checker[`birthdayCakeCandles; birthdayCakeCandles]
 /checker[`breakingTheRecords; breakingTheRecords]
+/checker[`divisibleSumPairs; divisibleSumPairs]
 
 / DataStructures
 /checker[`arraysDS; arraysDS]

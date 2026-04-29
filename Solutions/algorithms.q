@@ -10,6 +10,7 @@
         (`countingValleys; 1);
         (`dayOfTheProgrammer; "13.09.2017");
         (`diagonalDifference; 15);
+        (`divisibleSumPairs; 5);
         (`drawingBook; 1);
         (`gradingStudents; (75 67 40 33));
         (`migratoryBirds; 4);

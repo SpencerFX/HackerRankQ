@@ -16,6 +16,7 @@
 | Between Two Sets                  | Algorithms (Easy)      | ✅     |
 | Breaking the Records              | Algorithms (Easy)      | ✅     |
 | Subarray Division                 | Algorithms (Easy)      | ✅     |
+| Divisible Sum Pairs               | Algorithms (Easy)      | ⬜     |
 | Migratory Birds                   | Algorithms (Easy)      | ✅     |
 | Day of the Programmer             | Algorithms (Easy)      | ✅     |
 | Bill Division                     | Algorithms (Easy)      | ✅     |
@@ -164,6 +165,9 @@
 | Get Node Value                    | Data Structures (Easy) | ✅     |
 | Delete Duplicate Nodes            | Data Structures (Easy) | ✅     |
 | Merge Two Sorted Linked Lists     | Data Structures (Easy) | ✅     |
+| Find Merge Point of Two Lists     | Data Structures (Easy) | ⬜     |
+| InsertIntoSortedDoublyLinkedList  | Data Structures (Easy) | ⬜     |
+| Reverse A Doubly Linked List      | Data Structures (Easy) | ⬜     |
 | Tree: Preorder Traversal          | Data Structures (Easy) | ✅     |
 | Tree: Postorder Traversal         | Data Structures (Easy) | ✅     |
 | Tree: Inorder Traversal           | Data Structures (Easy) | ✅     |

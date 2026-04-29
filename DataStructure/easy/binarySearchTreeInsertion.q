@@ -66,9 +66,9 @@
 
 
 / Input Info ==================================================
-root:();
-vals:4 2 7 1 3 6;
-binarySearchTreeInsertion/[root;vals]
+/root:();
+/vals:4 2 7 1 3 6;
+/binarySearchTreeInsertion/[root;vals]
 / treeLevelOrderTraversal binarySearchTreeInsertion/[root;vals];
 / =============================================================
 

@@ -18,6 +18,7 @@
         (`plusMinus; enlist -4 3 -9 0 4 1f);
         (`salesByMatch; enlist 10 20 20 10 10 30 50 10 20);
         (`simpleArraySum; enlist 1 2 3 4 10 11);
+        (`solveMeFirst; (2;2));
         (`staircase; enlist 6);
         (`subArrayDivision; (1 2 1 3 2; 3; 2));
         (`timeConversion; enlist "07:05:45PM")

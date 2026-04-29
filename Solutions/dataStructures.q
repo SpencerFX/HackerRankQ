@@ -8,10 +8,8 @@
         (`deleteDuplicateValueNodesFromASortedLinkedList; 1 2 3);
         (`dynamicArray; 7 3);
         (`equalStacks; 5);
-        (`findMergePointOfTwoLists; 7);
         (`getNodeValue; 3);
         (`insertANodeAtASpecificPositionInALinkedList; 16 13 1 7);
-        (`insertingaNodeIntoASortedDoublyLinkedList; 1 2 3 4);
         (`insertNodeAtTheHeadOfALinkedList; 321 975 392 484 383);
         (`insertNodeAtTheTailOfALinkedList; 141 302 164 530 474);
         (`jessieAndCookies; 2);
@@ -22,7 +20,6 @@
         (`printInReverse; 4 3 2 1);
         (`printTheElementsOfALinkedList; 16 13 7);
         (`qHeap1; 4 9);
-        (`reverseADoublyLinkedList; 4 3 2 1);
         (`reverseALinkedList; 4 3 2 1);
         (`treeHeightOfABinaryTree; 3);
         (`treeInorderTraversal; 1 2 3 4 5 6);

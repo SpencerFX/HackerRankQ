@@ -15,9 +15,10 @@
         (`migratoryBirds; 4);
         (`miniMaxSum; (10 14));
         (`numberLineJumps; `YES);
-        (`plusMinus; enlist (0.500000 0.3333333 0.1666667)); / solution is correct, but can't be checked
+        (`plusMinus; (0.500000 0.3333333 0.1666667)); / solution is correct, but can't be checked
         (`salesByMatch; 3);
         (`simpleArraySum; 31);
+        (`solveMeFirst; 4);
         (`staircase; ("     #";"    ##";"   ###";"  ####";" #####";"######")); / solution is correct, but can't be checked
         (`subArrayDivision; 2);
         (`timeConversion; "19:05:45")

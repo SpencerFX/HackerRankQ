@@ -11,9 +11,9 @@ checker:{[problemName; function]
     expected: (value .checker.ref.dict category) problemName;
     actual: function . input;
     pass: actual = expected;
-    $[min pass; show"Your solution works!"; show"Please try again."];
+    $[min min pass; show"Your solution works!"; show"Please try again."];
     et:.z.p;
-    insert[`results; (problemName; min pass; enlist actual; enlist expected; st; et; cat;difficulty)];
+    insert[`results; (problemName; min min pass; enlist actual; enlist expected; st; et; cat;difficulty)];
  };
 
 .checker.ref.dict: (!) . flip raze 2 cut

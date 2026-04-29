@@ -2,7 +2,7 @@
     (
         (`twoDArrayDS; enlist (1 1 1 0 0 0;  0 1 0 0 0 0;  1 1 1 0 0 0; 0 0 2 4 4 0; 0 0 0 2 0 0; 0 0 1 2 4 0));
         (`arraysDS; enlist 2 3 4 1);
-        (`binarySearchTreeInsertion; `);
+        (`binarySearchTreeInsertion; ((); 4 2 7 1 3 6));
         (`compareTwoLinkedLists; ((1 2 3); (1 2 3)));
         (`deleteANode; ((8 20 6 2 19 7 4 15 9);3));
         (`deleteDuplicateValueNodesFromASortedLinkedList; enlist 1 1 2 3 3);
@@ -16,12 +16,12 @@
         (`insertNodeAtTheTailOfALinkedList; enlist 141 302 164 530 474);
         (`jessieAndCookies; (7; 1 2 3 9 10 12));
         (`leftRotation; (2;1 2 3 4 5));
-        (`maximumElement; `);
+        (`maximumElement; enlist ((1;97);(2);(1;20);(2);(1;26);(1;20);(2);(3)));
         (`mergeTwoSortedLinkedLists; (1 3 5; 2 4 6));
         (`printLinkedList; enlist 16 13);
         (`printInReverse; enlist 1 2 3 4);
         (`printTheElementsOfALinkedList; enlist 16 13 7);
-        (`qHeap1; `);
+        (`qHeap1; enlist ((1;4);(1;9);(3);(2;4);(3)));
         (`reverseADoublyLinkedList; enlist 1 2 3 4);
         (`reverseALinkedList; enlist 1 2 3 4);
         (`treeHeightOfABinaryTree; `);

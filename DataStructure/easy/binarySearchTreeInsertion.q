@@ -65,6 +65,44 @@
 / =============================================================
 
 
-/ Solution Info ===============================================
+/ Input Info ==================================================
+root:();
+vals:4 2 7 1 3 6;
+binarySearchTreeInsertion/[root;vals]
+/ treeLevelOrderTraversal binarySearchTreeInsertion/[root;vals];
+/ =============================================================
 
+
+/ Solution Info ===============================================
+/ binarySearchTreeInsertion[root;vals]
+treeLevelOrderTraversal:{[root]
+  q:enlist root;
+  res:();
+
+  while[count q;
+    n:first q;
+    q:1_ q;
+
+    if[99h=type n;
+      res,:enlist n`data;
+
+      if[99h=type n`left;  q,:enlist n`left];
+      if[99h=type n`right; q,:enlist n`right]
+    ]
+  ];
+
+  res
+ };
+
+binarySearchTree:{[root;v]
+  $[99h<>type root;
+    (`data`left`right)!(v;();());
+    $[v < root`data;
+      (`data`left`right)!(root`data; binarySearchTree[root`left;v]; root`right);
+      (`data`left`right)!(root`data; root`left; binarySearchTree[root`right;v])
+    ]
+  ]
+ };
+
+binarySearchTreeInsertion: {[root;vals] treeLevelOrderTraversal binarySearchTree/[root;vals]}
 / =============================================================

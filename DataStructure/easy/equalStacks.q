@@ -59,6 +59,31 @@
 / =============================================================
 
 
-/ Solution Info ===============================================
+/ Input Info ==================================================
+/h1:3 2 1 1 1;
+/h2:4 3 2;
+/h3:1 1 4 1;
+/((3 2 1 1 1);(4 3 2);(1 1 4 1))
+/ =============================================================
 
+
+/ Solution Info ===============================================
+/ equalStacks[h1;h2;h3]
+equalStacks:{[h1;h2;h3]
+  / possible heights for each stack
+  p1:(sum h1) - sums h1;
+  p2:(sum h2) - sums h2;
+  p3:(sum h3) - sums h3;
+
+  / include full height as well
+  p1:distinct p1,sum h1;
+  p2:distinct p2,sum h2;
+  p3:distinct p3,sum h3;
+
+  / find common heights
+  common: p1 inter p2 inter p3;
+
+  / return max or 0 if none
+  $[count common; max common; 0]
+ };
 / =============================================================

@@ -164,11 +164,15 @@
 | Get Node Value                    | Data Structures (Easy) | ✅     |
 | Delete Duplicate Nodes            | Data Structures (Easy) | ✅     |
 | Merge Two Sorted Linked Lists     | Data Structures (Easy) | ✅     |
-| Tree: Preorder Traversal          | Data Structures (Easy) | ⬜     |
-| Tree: Postorder Traversal         | Data Structures (Easy) | ⬜     |
-| Tree: Inorder Traversal           | Data Structures (Easy) | ⬜     |
+| Tree: Preorder Traversal          | Data Structures (Easy) | ⬜o    |
+| Tree: Postorder Traversal         | Data Structures (Easy) | ⬜o    |
+| Tree: Inorder Traversal           | Data Structures (Easy) | ⬜o    |
 | Tree: Height of a Binary Tree     | Data Structures (Easy) | ⬜     |
-| Tree: Top View                    | Data Structures (Easy) | ⬜     |
-| Tree: Level Order Traversal       | Data Structures (Easy) | ⬜     |
-| Tree: Binary Search Tree Insertion| Data Structures (Easy) | ⬜     |
+| Tree: Top View                    | Data Structures (Easy) | ⬜o    |
+| Tree: Level Order Traversal       | Data Structures (Easy) | ⬜o    |
+| Tree: Binary Search Tree Insertion| Data Structures (Easy) | ⬜o    |
+| QHEAP1                            | Data Structures (Easy) | ✅     |
+| Maximum Element                   | Data Structures (Easy) | ✅     |
+| Jessie And Cookies                | Data Structures (Easy) | ✅     |
+| Equal Stacks                      | Data Structures (Easy) | ✅     |
 | Sparse Arrays                     | Data Structures (Medi) | ✅     |

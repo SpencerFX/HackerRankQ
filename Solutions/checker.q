@@ -53,4 +53,8 @@ confirmCategory:{[problemName]
 /checker[`getNodeValue;getNodeValue]
 /checker[`deleteDuplicateValueNodesFromASortedLinkedList;deleteDuplicateValueNodesFromASortedLinkedList]
 /checker[`mergeTwoSortedLinkedLists;mergeTwoSortedLinkedLists]
-/results
+checker[`maximumElement;maximumElement]
+checker[`jessieAndCookies;jessieAndCookies]
+checker[`equalStacks;equalStacks]
+checker[`qHeap1;qHeap1]
+results

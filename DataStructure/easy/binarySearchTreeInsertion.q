@@ -65,6 +65,22 @@
 / =============================================================
 
 
-/ Solution Info ===============================================
+/ Input Info ==================================================
+root:();
+vals:4 2 7 1 3 6;
+bstInsert/[root;vals]
+levelOrder bstInsert/[root;vals];
+/ =============================================================
 
+
+/ Solution Info ===============================================
+binarySearchTreeInsertion:{[root;v]
+  $[99h<>type root;
+    (`data`left`right)!(v;();());
+    $[v < root`data;
+      (`data`left`right)!(root`data; bstInsert[root`left;v]; root`right);
+      (`data`left`right)!(root`data; root`left; bstInsert[root`right;v])
+    ]
+  ]
+ };
 / =============================================================

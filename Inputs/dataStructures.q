@@ -20,6 +20,7 @@
         (`printInReverse; enlist 1 2 3 4);
         (`printTheElementsOfALinkedList; enlist 16 13 7);
         (`qHeap1; enlist ((1;4);(1;9);(3);(2;4);(3)));
+        (`reverseADoublyLinkedList; enlist 1 4 1 2 3 4);
         (`reverseALinkedList; enlist 1 2 3 4);
         (`treeHeightOfABinaryTree; `);
         (`treeInorderTraversal; `);

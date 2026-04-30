@@ -16,7 +16,7 @@
 | Between Two Sets                  | Algorithms (Easy)      | ✅     |
 | Breaking the Records              | Algorithms (Easy)      | ✅     |
 | Subarray Division                 | Algorithms (Easy)      | ✅     |
-| Divisible Sum Pairs               | Algorithms (Easy)      | ⬜     |
+| Divisible Sum Pairs               | Algorithms (Easy)      | ✅     |
 | Migratory Birds                   | Algorithms (Easy)      | ✅     |
 | Day of the Programmer             | Algorithms (Easy)      | ✅     |
 | Bill Division                     | Algorithms (Easy)      | ✅     |

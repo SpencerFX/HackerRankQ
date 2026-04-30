@@ -165,9 +165,9 @@
 | Get Node Value                    | Data Structures (Easy) | ✅     |
 | Delete Duplicate Nodes            | Data Structures (Easy) | ✅     |
 | Merge Two Sorted Linked Lists     | Data Structures (Easy) | ✅     |
-| Find Merge Point of Two Lists     | Data Structures (Easy) | ⬜     |
+| Find Merge Point of Two Lists     | Data Structures (Easy) | ✅     |
 | InsertIntoSortedDoublyLinkedList  | Data Structures (Easy) | ⬜     |
-| Reverse A Doubly Linked List      | Data Structures (Easy) | ⬜     |
+| Reverse A Doubly Linked List      | Data Structures (Easy) | ✅     |
 | Tree: Preorder Traversal          | Data Structures (Easy) | ✅     |
 | Tree: Postorder Traversal         | Data Structures (Easy) | ✅     |
 | Tree: Inorder Traversal           | Data Structures (Easy) | ✅     |
